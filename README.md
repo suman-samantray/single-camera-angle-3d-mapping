@@ -52,4 +52,4 @@ Included in this repo are demo files which can be used to see the results. On ru
 * Treacy Hanley
 * Sam Kamperis
 * Faik Mayah
-* Suman Samantray
+* [Suman Samantray](https://github.com/suman-samantray)
